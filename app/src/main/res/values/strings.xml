@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android1.1</string>
+    <string name="title">Вход</string>
+    <string name="text_welcome">Добро пожаловать! </string>
+    <string name="description">Выполните вход или зарегестрируйтесь.</string>
+    <string name="password">Введите пароль</string>
+    <string name="login">Введите вашу почту</string>
+    <string name="forgot_password">Забыли пароль?</string>
+    <string name="click_text">Нажми сюда.</string>
+
+</resources>
